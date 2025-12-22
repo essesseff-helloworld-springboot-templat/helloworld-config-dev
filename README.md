@@ -6,7 +6,7 @@ Helm chart for DEV environment.
 
 - **Environment**: DEV
 - **Auto-Deploy**: Yes (via essesseff upon successful code build triggered by source code push)
-- **Namespace**: `essesseff-helloworld-springboot-template`
+- **Namespace**: `essesseff-helloworld-springboot-templat`
 - **Ingress**: `example.com/helloworld-dev`
 
 ## Updates
