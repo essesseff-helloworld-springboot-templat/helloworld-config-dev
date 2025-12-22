@@ -1,4 +1,4 @@
-# hello-world Config - DEV
+# helloworld Config - DEV
 
 Helm chart for DEV environment.
 
@@ -6,8 +6,8 @@ Helm chart for DEV environment.
 
 - **Environment**: DEV
 - **Auto-Deploy**: Yes (via essesseff upon successful code build triggered by source code push)
-- **Namespace**: `essesseff-hello-world-flask-template`
-- **Ingress**: `example.com/hello-world-dev`
+- **Namespace**: `essesseff-helloworld-springboot-template`
+- **Ingress**: `example.com/helloworld-dev`
 
 ## Updates
 
